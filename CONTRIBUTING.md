@@ -47,7 +47,6 @@ A contribution can be one of the following cases:
 
 ## Questions
     
-[Edit the section accordingly, though the text below is generic and a common practice]
 1. use the search functionality [here](https://github.com/sarasal/trip-planning/issues) to see if someone already filed the same issue;
 2. if your issue search did not yield any relevant results, make a new issue;
 3. apply the "Question" label; apply other labels when relevant.
