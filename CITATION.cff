@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Salimzadeh"
+  given-names: "Sara"
+  orcid: "https://orcid.org/0000-0001-8734-951X"
+title: "trip-planning"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-06-27
+url: "https://github.com/sarasal/trip-planning"
