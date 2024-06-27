@@ -1,4 +1,9 @@
-                                 Apache License
+Technische Universiteit Delft hereby disclaims all copyright interest the dataset contains the annotation of the complexity and diverse features of decision tasks in the human-AI decision-making literature written by Sara Salimzadeh.
+Lucas van Vliet, Dean of Faculty of Electrical Engineering, Mathematics and Computer Science.
+
+(c) 2024, Sara Salimzadeh, Delft, The Netherlands.
+
+                                Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -186,7 +191,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2024 Sara Salimzadeh
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
