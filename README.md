@@ -66,7 +66,7 @@ Lucas van Vliet, Dean of the Faculty of Electrical Engineering, Mathematics, and
 
 ## Citation
 
-If you use trip-planning to produce results for your scientific publication, please refer to our CHI paper. 
+If you use trip-planning to produce results for your scientific publication, please refer to our [CHI paper](https://doi.org/10.1145/3613904.3641905). 
 
 ```bash
 @inproceedings{salimzadeh2024_uncertainty,
