@@ -59,6 +59,7 @@ Read the (CONTRIBUTING.md) to know how can you take part in this project.
 ## Copyright
 
 Technische Universiteit Delft hereby disclaims all copyright interest in the dataset contains the annotation of the complexity and diverse features of decision tasks in the human-AI decision-making literature written by Sara Salimzadeh.
+
 Lucas van Vliet, Dean of the Faculty of Electrical Engineering, Mathematics, and Computer Science.
 
 &copy; (2024) Sara Salimzadeh, Delft, The Netherlands. 
