@@ -46,11 +46,10 @@ $ docker run -it -d -p 8080:80 webapp
 - Vue 3
 
 
-### [Contributing Guidelines]
+## Contributing Guidelines
 
 Read the (CONTRIBUTING.md) to know how can you take part in this project. 
 
-[ Include a `CONTRIBUTING.md` files ]
 
 ## License
 
@@ -66,7 +65,22 @@ Lucas van Vliet, Dean of the Faculty of Electrical Engineering, Mathematics, and
 
 ## Citation
 
-[Include a [CCF file (Citation File Format)](https://citation-file-format.github.io/). See example in this repo: `CITATION.cff`. You can easily create the content of a CCF using [this tool](https://citation-file-format.github.io/cff-initializer-javascript/). ]
+If you use trip-planning to produce results for your scientific publication, please refer to our CHI paper. 
 
-[CCF files can be converted to a multitude of formats, including BibTex,  EndNote, codemeta, plain JSON, schema.org, RIS, and Zenodo JSON ]
+```bash
+@inproceedings{salimzadeh2024_uncertainty,
+  author = {Salimzadeh, Sara and He, Gaole and Gadiraju, Ujwal},
+  title = {Dealing with Uncertainty: Understanding the Impact of Prognostic Versus Diagnostic Tasks on Trust and Reliance in Human-AI Decision Making},
+  year = {2024},
+  isbn = {9798400703300},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3613904.3641905},
+  doi = {10.1145/3613904.3641905},
+  articleno = {25},
+  numpages = {17},
+  location = {Honolulu, HI, USA},
+  series = {CHI '24}
+}
+```
 
