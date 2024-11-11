@@ -10,6 +10,10 @@ This repository contains the interface developed to support a research project p
 Sara Salimzadeh, Gaole He, and Ujwal Gadiraju. 2024. Dealing with Uncertainty: Understanding the Impact of Prognostic Versus Diagnostic Tasks on Trust and Reliance in Human-AI Decision Making. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 25, 1–17. https://doi.org/10.1145/3613904.3641905
 
 
+## Presentation
+You can access the Slides [here.](https://docs.google.com/presentation/d/1npkn9S4V17NRQOZMTT23As75JcQM1Aibo7JHLENfvW0/edit?usp=sharing)
+
+
 ## Installation
 
 The codebase includes a Vue.js front-end application along with a bac-kend Flask API. The corresponding folders are 'front-end' and 'back-end', both contained within the 'trip-planner-interface' directory. To run the application locally, both the front-end and back-end components need to be started.
