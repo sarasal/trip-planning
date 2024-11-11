@@ -1,6 +1,8 @@
 # trip-planning
 
 
+![Demo](images/user-study-preview.gif)
+
 ## Description
 
 This repository contains the interface developed to support a research project published in the following paper. The project involved an empirical study exploring how human decision-makers interact with AI systems when dealing with complex and uncertain tasks. The corresponding code for the interface and the full list of tasks are available here. 
