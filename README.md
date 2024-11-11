@@ -1,7 +1,7 @@
 # trip-planning
 
 
-![Demo](images/user-study-preview.gif)
+![Demo](images/output.gif)
 
 ## Description
 
