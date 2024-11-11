@@ -1,0 +1,173 @@
+[
+	{
+		"question_id": "01_01",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "ati_scale",
+		"question_group": "ati_scale",
+		"question": "I like to occupy myself in greater detail with technical systems.",
+		"answer_list": ["completely disagree", "largely disagree", "slightly disagree", "slightly agree", "largely agree", "completely agree"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "01_02",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "ati_scale",
+		"question_group": "ati_scale",
+		"question": "I like testing the functions of new technical systems.",
+		"answer_list": ["completely disagree", "largely disagree", "slightly disagree", "slightly agree", "largely agree", "completely agree"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "01_03",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "ati_scale",
+		"question_group": "ati_scale",
+		"question": "I predominantly deal with technical systems because I have to.",
+		"answer_list": ["completely disagree", "largely disagree", "slightly disagree", "slightly agree", "largely agree", "completely agree"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "01_04",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "ati_scale",
+		"question_group": "ati_scale",
+		"question": "When I have a new technical system in front of me, I try it out intensively.",
+		"answer_list": ["completely disagree", "largely disagree", "slightly disagree", "slightly agree", "largely agree", "completely agree"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "01_05",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "ati_scale",
+		"question_group": "ati_scale",
+		"question": "I enjoy spending time becoming acquainted with a new technical system.",
+		"answer_list": ["completely disagree", "largely disagree", "slightly disagree", "slightly agree", "largely agree", "completely agree"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "01_06",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "ati_scale",
+		"question_group": "ati_scale",
+		"question": "It is enough for me that a technical system works; I don’t care how or why.",
+		"answer_list": ["completely disagree", "largely disagree", "slightly disagree", "slightly agree", "largely agree", "completely agree"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "01_07",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "ati_scale",
+		"question_group": "ati_scale",
+		"question": "I try to understand how a technical system exactly works.",
+		"answer_list": ["completely disagree", "largely disagree", "slightly disagree", "slightly agree", "largely agree", "completely agree"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "00_01",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "attention_check",
+		"question_group": "attention_check",
+		"question": "Out of all the items available, choose the sport.",
+		"answer_list": ["bread", "apple", "tennis", "table", "scarf", "red"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "01_08",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "ati_scale",
+		"question_group": "ati_scale",
+		"question": "It is enough for me to know the basic functions of a technical system.",
+		"answer_list": ["completely disagree", "largely disagree", "slightly disagree", "slightly agree", "largely agree", "completely agree"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "01_09",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "ati_scale",
+		"question_group": "ati_scale",
+		"question": "I try to make full use of the capabilities of a technical system.",
+		"answer_list": ["completely disagree", "largely disagree", "slightly disagree", "slightly agree", "largely agree", "completely agree"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "02_01",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "sns_scale",
+		"question_group": "cognitive_abilities",
+		"question": "How good are you at working with fractions?",
+		"answer_list": ["not at all good", "extremely good"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "02_02",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "sns_scale",
+		"question_group": "cognitive_abilities",
+		"question": "How good are you at working with percentages?",
+		"answer_list": ["not at all good", "extremely good"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "02_03",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "sns_scale",
+		"question_group": "cognitive_abilities",
+		"question": "How good are you at calculating a 15% tip?",
+		"answer_list": ["not at all good", "extremely good"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "02_04",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "sns_scale",
+		"question_group": "cognitive_abilities",
+		"question": "How good are you at figuring out how much a shirt will cost if it is 25% off?",
+		"answer_list": ["not at all good", "extremely good"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "03_01",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "sns_scale",
+		"question_group": "preference_for_display_of_numberic_information",
+		"question": "When reading the newspaper, how helpful do you find tables and graphs that are parts of a story?",
+		"answer_list": ["not at all", "extremely"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "00_02",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "attention_check",
+		"question_group": "attention_check",
+		"question": "Out of all the items available, choose the fruit.",
+		"answer_list": ["white", "tree", "tennis", "cherry", "five", "painting"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "03_02",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "sns_scale",
+		"question_group": "preference_for_display_of_numberic_information",
+		"question": "When people tell you the chance of something happening, do you prefer that they use words (‘‘it rarely happens’’) or numbers (‘‘there’s a 1% chance’’)?",
+		"answer_list": ["always prefer words", "always prefer numbers"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "03_03",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "sns_scale",
+		"question_group": "preference_for_display_of_numberic_information",
+		"question": "When you hear a weather forecast, do you prefer predictions using percentages (e.g., ‘‘there will be a 20% chance of rain today’’) or predictions using only words (e.g., ‘‘there is a small chance of rain today’’)? ",
+		"answer_list": ["always prefer percentages", "always prefer words"],
+		"likert_scale": 6
+	},
+	{
+		"question_id": "03_04",
+		"questionnaire_flow": "pre_test",
+		"questionnaire_type": "sns_scale",
+		"question_group": "preference_for_display_of_numberic_information",
+		"question": "How often do you find numerical information to be useful?",
+		"answer_list": ["never", "very often"],
+		"likert_scale": 6
+	}
+]

@@ -1,0 +1,301 @@
+[
+	{
+		
+		"question_id": "04_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "reliability_competence",
+		"question": "The system is capable of interpreting situations correctly.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "05_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "understanding_predictability",
+		"question": "The system state was always clear to me.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "06_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "familiarity",
+		"question": "I already know similar systems.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "07_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "intention_of_developers",
+		"question": "The developers are trustworthy.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "08_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "propensity_to_trust",
+		"question": "One should be careful with unfamiliar automated systems.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "04_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "reliability_competence",
+		"question": "The system works reliably.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "05_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "understanding_predictability",
+		"question": "The system reacts unpredictably.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "07_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "intention_of_developers",
+		"question": "The developers take my well-being seriously.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "09_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "trust_in_automation",
+		"question": "I trust the system.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "04_03",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "reliability_competence",
+		"question": "A system malfunction is likely.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "00_03",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "attention_check",
+		"question_group": "attention_check",
+		"question": "Out of all the items available, choose the number.",
+		"answer_list": ["book", "happy", "kitchen", "lion", "eighteen"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "05_03",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "understanding_predictability",
+		"question": "I was able to understand why things happened.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "08_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "propensity_to_trust",
+		"question": "I rather trust a system than I mistrust it.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "04_04",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "reliability_competence",
+		"question": "The system is capable of taking over complicated tasks.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "09_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "trust_in_automation",
+		"question": "I can rely on the system.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "04_05",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "reliability_competence",
+		"question": "The system might make sporadic errors.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "05_04",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "understanding_predictability",
+		"question": "It is difficult to identify what the system will do next.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "06_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "familiarity",
+		"question": "I have already used similar systems.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "08_03",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "propensity_to_trust",
+		"question": "Automated systems generally work well",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "04_06",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "reliability_competence",
+		"question": "I am confident about the system’s capabilities.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "10_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "task_characteristics",
+		"question_group": "frequency",
+		"question": "How frequent would you say the following task have occurred?(Not limited to the experiment period, think about e.g. in the last year).",
+		"answer_list": ["one-time task", "routine tasks"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "00_04",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "attention_check",
+		"question_group": "attention_check",
+		"question": "Out of all the items available, choose the weekday.",
+		"answer_list": ["fire", "friday", "glass", "nose", "card"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "10_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "task_characteristics",
+		"question_group": "length",
+		"question": "How quickly do you think the following task can be finished?",
+		"answer_list": ["very quick <1 day", "long term >= 1 month"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "10_03",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "task_characteristics",
+		"question_group": "cognitive_level",
+		"question": "Different tasks involve cognitive activities of different levels of complexity. At which level would you rate the activities involved to complete the following task?",
+		"answer_list": ["remember","understand","apply","analyse", "evaluate", "create"],
+		"likert_scale": 6
+	},
+	{
+		
+		"question_id": "10_04",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "task_characteristics",
+		"question_group": "collaboration",
+		"question": "To what extend would you say you were responsible for the task?",
+		"answer_list": ["solely responsible", "collaborates with many people"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "10_05",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "task_characteristics",
+		"question_group": "importance",
+		"question": "How would you rate the importance of the task?",
+		"answer_list": ["unimportant", "extremely important"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "10_06",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "task_characteristics",
+		"question_group": "urgency",
+		"question": "How would you rate the urgency of the task?",
+		"answer_list": ["not urgent", "extremely urgent"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "10_07",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "task_characteristics",
+		"question_group": "difficulty",
+		"question": "How do you feel about the difficulty of the task? (e.g. difficult to find relevant information, or requires great effort in thinking/understanding).",
+		"answer_list": ["easy", "extremely difficult"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "10_08",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "task_characteristics",
+		"question_group": "complexity",
+		"question": "How do you feel about the complexity of the task? (e.g. it may involve many steps or subtasks in order to complete the task).",
+		"answer_list": ["simple","extremely complex"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "10_09",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "task_characteristics",
+		"question_group": "knowledge_of_topic",
+		"question": "How would you rate your knowledge on the topic of the task?",
+		"answer_list": ["not knowledge","highly knowledgeable"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "10_10",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "task_characteristics",
+		"question_group": "knowledge_of_procedure",
+		"question": "How would you rate your knowledge on the procedure to complete the task?",
+		"answer_list": ["not knowledge","highly knowledgeable"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "10_11",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "task_characteristics",
+		"question_group": "satisfaction",
+		"question": "Were you satisfied with the process of information seeking activities for completing the task?",
+		"answer_list": ["unsatisfied - unable to find the information needed","very satisfied - could find needed information easily"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "11_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "open",
+		"question_group": "general",
+		"question": "Please don't hesitate to share with us your thoughts and opinions regarding this research. (optional)",
+		"answer_list": [],
+		"likert_scale": 0
+	}
+]
